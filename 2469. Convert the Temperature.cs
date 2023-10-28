@@ -1,0 +1,3 @@
+public class Solution {
+    public double[] ConvertTemperature(double c) => new double[] { c + 273.15, c * 1.8 + 32.00 };
+}
